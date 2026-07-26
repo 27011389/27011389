@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=27011389" alt="27011389" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://27011389.github.io/Portfolio/](https://27011389.github.io/Portfolio/)
+- 💼 Visit my business website: [Nxtech](https://nxtech.co.nz)
 
 - 📫 How to reach me **markpepere@nxtech.co.nz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mark-pepere-198725132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-pepere-198725132/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mark-pepere-198725132/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mark Pepere on LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
